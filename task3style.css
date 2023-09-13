@@ -1,0 +1,39 @@
+.table1{
+    border: 1px solid lightgray;
+    border-collapse: collapse;
+    padding: 10px;
+}
+#line1{
+    background-color: rgb(6, 183, 106);
+    color: white;
+    padding: 10px;
+    padding-right: 250px;
+
+}
+#line2{
+    background-color: rgb(6, 183, 106);
+    color: white;
+    padding: 10px;
+    padding-right: 70px;
+}
+#line3{
+    background-color: lightgray;
+    padding: 10px;
+    padding-right: 250px;
+}
+#line4{
+    background-color: lightgray;
+    padding: 10px;
+    padding-right: 70px;
+}
+#line5{
+    padding: 10px;
+    padding-right: 250px;
+}
+#line6{
+    padding: 10px;
+    padding-right: 70px;
+}
+.box{
+    padding: 100px;
+}
